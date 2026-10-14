@@ -68,7 +68,7 @@ The event welcomes participants from diverse backgrounds, including:
 
 | Name | Role | Affiliation |
 |------|------|-------------|
-| **Raja Babu Jamatia** | Lead Organizer | Quantum Elite Scholar’s Society |
+| **Er. Raja Babu Jamatia** | Lead Organizer | Quantum Elite Scholar’s Society |
 | **Rohit Kumar** | Workshop Support |  Quantum Elite Scholar’s Society |
 | **Sanjeet Bakshi** | Hackathon Support  | Quantum Elite Scholar’s Society |
 | **Laksyai Sharma** | Workshop Support | Quantum Elite Scholar’s Society |
@@ -87,7 +87,7 @@ The event welcomes participants from diverse backgrounds, including:
 ## 📬 Contact Information  
   
  
- **Raja Babu Jamatia** — Lead Organizer    
+ **Er. Raja Babu Jamatia** — Lead Organizer    
  Representative, **Qiskit Fall Fest 2025** | **Shoolini University** <br>
  Email : [mrjamatiaofficial@gmail.com](mailto:mrjamatiaofficial@gmail.com)  
  Connect to my [ Linkedin](https://www.linkedin.com/in/raja-babu-jamatia-521609288/)
@@ -103,4 +103,4 @@ This event is part of the **Global Qiskit Fall Fest 2025** initiative by **IBM Q
 ---
 
 © 2025 Shoolini x QFF'25  
-Developed and maintained by **Raja Babu Jamatia**
+Developed and maintained by **Er. Raja Babu Jamatia**
